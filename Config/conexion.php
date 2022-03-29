@@ -14,10 +14,10 @@ class Database {
     
     public static function conectar () {
         
-        $hostname = 'localhost';
-        $database = 'gestion';
-        $username = 'root';
-        $password = '';
+        $hostname = 'us-cdbr-east-05.cleardb.net';
+        $database = 'heroku_734ef63ccdc2de6';
+        $username = 'b42d821ea516bb';
+        $password = '33aa38ba';
         $charset = 'utf-8';
 
         $options = [PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC];
