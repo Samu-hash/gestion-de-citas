@@ -1,4 +1,4 @@
- <h1> Welcome to Crud Dating wave computer nerd_face desktop_computer </h1>
+ <h1> Bienvenido a SISTEMA DE GESTION DE SOPORTE TECNICO  </h1>
 
 <p> Desarrollar una aplicación "CRUD" Web en PHP que permita pedir cita a los desarrolladores y equipos para solucionar problemas técnicos con la ayuda del formador o CTO.
 
