@@ -7,12 +7,12 @@ computer•woman TEAM 👨🏻•computer </br>
 </em></p>
  <h1> https://gestiondecitas2022.herokuapp.com/ </h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+![equipo](https://user-images.githubusercontent.com/90289472/160510023-5c6da2fb-fcff-4ab3-9981-8edd756b84fd.gif)
+
 
 👩‍💻 Dargy Julieth Mogollon Lobo 👩‍💻
 👨‍💻 Carlos Eduardo Martinez Pedraza 👨‍💻 
 
-![equipo](https://user-images.githubusercontent.com/90289472/160510023-5c6da2fb-fcff-4ab3-9981-8edd756b84fd.gif)
 
 
 computer CONNECTION STEPS computer
